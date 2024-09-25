@@ -1,4 +1,7 @@
-# Artificial-Neural-Networks-and-Deep-Architectures
+# Artificial Neural Networks and Deep Architectures – DD2437
+
+### KTH Royal Institute of Technology in Stockholm
+
 Course DD2437 <br>
 Link: https://www.kth.se/student/kurser/kurs/DD2437?l=en <br><br>
 
